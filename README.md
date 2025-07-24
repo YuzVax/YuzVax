@@ -11,7 +11,7 @@
 🔭 Actualmente estoy trabajando en proyectos personales y colaboraciones Open Source
 🌱 Estoy aprendiendo tecnologías modernas como NestJS, Docker y Next.js
 💬 Pregúntame sobre Java, Python, C++, Node.js y React
-📫 Cómo contactarme: sx1109.dev@gmail.com
+📫 Cómo contactarme: se7en.sc23@gmail.com
 ⚡ Curiosidad: Me encanta resolver retos técnicos y automatizar tareas cotidianas
 
 ---
@@ -25,7 +25,7 @@
 
 📊 Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SX1109&show_icons=true&theme=radical" alt="Estadísticas de SX1109" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YuzVax&show_icons=true&theme=radical" alt="Estadísticas de YuzVax" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SX1109&theme=radical" alt="Racha de contribuciones" />
 </p>
