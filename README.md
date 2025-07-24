@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YuzVax&show_icons=true&theme=radical" alt="Estadísticas de YuzVax" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SX1109&theme=radical" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuzVax&theme=radical" alt="Racha de contribuciones" />
 </p>
 
 ---
@@ -44,6 +44,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/tuusuario" target="_blank">🌐 LinkedIn</a> •
   <a href="https://sx1109.dev">🌐 Web personal</a> •
-  <a href="mailto:sx1109.dev@gmail.com">📧 Email</a>
+  <a href="mailto:se7en.sc23@gmail.com">📧 Email</a>
 </p>
 
