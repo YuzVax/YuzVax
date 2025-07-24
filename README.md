@@ -18,7 +18,7 @@
 
 🛠️ Lenguajes y Herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,js,ts,react,nodejs,html,css,tailwind,mysql,postgres,mongodb,docker,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,mysql,postgres,docker,git,github,linux" />
 </p>
 
 ---
